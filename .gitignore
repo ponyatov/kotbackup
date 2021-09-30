@@ -1,0 +1,13 @@
+*~
+*.swp
+*.log
+
+/docs/
+/kotbackup/
+
+__pycache__/
+
+target/
+Cargo.lock
+
+!.gitignore
